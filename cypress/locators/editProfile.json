@@ -1,0 +1,27 @@
+{
+    "editProfile_section_xpath":"//a[text()='Edit Profile']",
+    "title_drop":"#user_title",
+
+"firstname_txt":"#user_firstname",
+
+"surname_txt":"#user_surname",
+
+"phone_txt":"#user_phone",
+
+"Dataofbirth_xpath":"//label[text()='Dateofbirth']/../select",
+
+"Licensetype_radio":"#user_licencetype_f",
+
+"Licenseperiod_cmb":"#user_licenceperiod",
+
+"Occupation_cmb":"#user_occupation_id",
+
+"Adress":{
+    "street_txt":"#user_address_attributes_street",
+    "city_txt":"#user_address_attributes_city",
+    "country_txt":"#user_address_attributes_county",
+    "pinCode_txt":"#user_address_attributes_postcode"
+},
+"update_btn":"[onclick=\"updateInfo();getUser();return false;\"]",
+"updated_p":"#updatedText"
+}

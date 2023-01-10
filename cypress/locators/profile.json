@@ -1,0 +1,26 @@
+{
+    "Profile_section":"//a[text()='Profile']",
+    "title":"#showtitle",
+
+"firstname":"#showfirstname",
+
+"surname":"#showsurname",
+
+"phone":"#showphone",
+
+"Dataofbirth":"#Dataofbirth",
+
+"Licensetype":"#showlicencetype",
+
+"Licenseperiod":"#showlicenceperiod",
+
+"Occupation":"#showoccupation",
+"driverHistory":"#showincidents",
+"Adress":{
+    "street":"#showstreet",
+    "city":"#showcity",
+    "country":"#showcounty",
+    "pinCode":"#showpostcode"
+}
+
+}
